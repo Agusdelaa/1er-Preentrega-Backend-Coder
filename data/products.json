@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "cambio",
+        "description": "CAMBIADO CON POSTMAN",
+        "code": "TBL001",
+        "price": 499.99,
+        "status": true,
+        "stock": 7,
+        "category": "Electronics",
+        "thumbnails": [
+            "https://example.com/tablet.jpg",
+            "https://example.com/tablet2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "camion",
+        "description": "A powerful laptop for professional use",
+        "code": "LTP001",
+        "price": 1499.99,
+        "status": true,
+        "stock": 5,
+        "category": "Electronics",
+        "thumbnails": [
+            "https://example.com/laptop.jpg",
+            "https://example.com/laptop2.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "pepe",
+        "description": "A powerful laptop for professional use",
+        "code": "LTP001",
+        "price": 1499.99,
+        "status": true,
+        "stock": 5,
+        "category": "Electronics",
+        "thumbnails": [
+            "https://example.com/laptop.jpg",
+            "https://example.com/laptop2.jpg"
+        ]
+    }
+]
